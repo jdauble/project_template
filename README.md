@@ -33,6 +33,8 @@ Classes
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
+![WoW](Media/Images/BFI.png)
+
 (Contributions. An enumeration of the contributions of the senior design project)
 
 (This project makes the following contributions:)(you must have this!!)
