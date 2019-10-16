@@ -10,11 +10,13 @@
 
 ## General Introduction
 
+![WoW](Media/Images/WoWLegion.jpg)
+
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
+(I tell students to answer the questions, one paragraph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
