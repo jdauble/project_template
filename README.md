@@ -18,7 +18,16 @@
 
 (I tell students to answer the questions, one paragraph each to start if you are lost)
 
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
+(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)  
+
+Classic Races  
+![WoW](Media/Images/WoWRacesClassic.jpg)
+
+Races  
+![WoW](Media/Images/WoWRaces.png)  
+
+Classes  
+![WoW](Media/Images/WoWClasses.png)  
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
