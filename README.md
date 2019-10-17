@@ -77,16 +77,16 @@ ______
 Measures:
 
 Big Five Index
-![WoW](Media/Images/BFI-1.png)  
-![WoW](Media/Images/BFI-2.png)  
+![WoW](Media/Images/BFI-1.PNG)  
+![WoW](Media/Images/BFI-2.PNG)  
 
 Motivation to Play Online Games
-![WoW](Media/Images/MPOG-1.png)  
-![WoW](Media/Images/MPOG-2.png)  
+![WoW](Media/Images/MPOG-1.PNG)  
+![WoW](Media/Images/MPOG-2.PNG)  
 
 Demographics  
-![WoW](Media/Images/Demo-1.png)  
-![WoW](Media/Images/Demo-2.png)  
+![WoW](Media/Images/Demo-1.PNG)  
+![WoW](Media/Images/Demo-2.PNG)  
 ______
 
 (Contributions. An enumeration of the contributions of the senior design project)
