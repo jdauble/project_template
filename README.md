@@ -76,15 +76,15 @@ H6a: A combination of increased Conscientiousness scores, increased agreeablenes
 ______
 Measures:
 
-Big Five Index
+Big Five Index  
 ![WoW](Media/Images/BFI-1.PNG)  
 ![WoW](Media/Images/BFI-2.PNG)  
 
-Motivation to Play Online Games
+Motivation to Play Online Games  
 ![WoW](Media/Images/MPOG-1.PNG)  
 ![WoW](Media/Images/MPOG-2.PNG)  
 
-Demographics  
+Demographics   
 ![WoW](Media/Images/Demo-1.PNG)  
 ![WoW](Media/Images/Demo-2.PNG)  
 ______
