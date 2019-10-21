@@ -33,13 +33,18 @@ WoW takes place in the so called Warcraft Universe, a setting that is also used 
 The WoW Universe is takes the player to the fictional world of Azeroth, inviting them to create a virtual character and slip into the role of this character to embody and develop it. Players have a number of initial choices regarding character which will be explained in detail:
 
 Fraction:
-Each character in WoW belongs to one of two possible fractions, the Alliance or the Horde
+Each character in WoW belongs to one of two possible fractions, the Alliance or the Horde.
+
 | Alliance   | Horde   |
 |:---:|:---:|
-| ![Alliance Banner](Media/Images/tba.jpg) | ![Horde Banner](Media/Images/tba.jpg) |
-overarching alignment (Alliance versus Horde), 
+| ![Alliance Banner](Media/Images/alliancebanner.jpg) | ![Horde Banner](Media/Images/hordebanner.jpg) |
 
-race (Human, Dwarf, Tauren, Orc, etc.) and 
+In Classic WoW, four races belong to each fraction:
+Noble Humans, adventurous Dwarfs, enigmatic Nightelves, and ingenious Gnomes form the Alliance 
+while brutal Orcs, shadowy Undead, spiritual Tauren, and quick-witted Trolls make up the horde (race-describing adjectives taken from the in-game description).
+
+Races
+(Human, Dwarf, Tauren, Orc, etc.) and 
 
 class (Hunter, Druid, Warlock, Rogue, etc.) 
 
