@@ -10,7 +10,7 @@
 
 ## Introduction
 
-![WoW](Media/Images/WoWLegion.jpg)
+![WoW](Media/Images/WoWClassicBackground.jpg)
 
 According to Newzoo (2017) the video game industry has already oustripped film as a source of personal entertainment, is generating over a hundred billion dollars of revenue a year, and is continuing to grow at an impressive rate. Increasingly, young people (though the average age of gamers continues to gradually increase as gaming generations age) turn to video games as their main source of entertainment (Billieux, Van der Linden, Achab, Khazaal, Paraskevopoulos, Zulllino, and Thorens, 2013), and the shift away from more traditional modes of hedonic activity has yeilded the age-old knee jerk reaction: what effect will this have on our children? The primary focus of academic discontent surrounding video games has so far centered on the impact of violent video games (VVGs), and has concerned the additional risk that engagement with violent content may have on one's disposition and behaviors. The argument condemning violent video games is in many ways similar to those that blossomed during the early years of the film industry - violence begets violence, desensitization will lead to inhumanity, etc. - but it differs along the key dimension of complicity. Gamers do not simply view the content with which they engage, but are in fact part of a bidirectional and developing relationship with the content of their game. Particularly as video games increase in complexity and provide less constricted avenues of play, a player may have the capacity to influence a game world to a greater degree than they are imprisoned by its rules. Here is where the question of violent activities and content raises a wholly different question than has already been answered with regards to film media; while we now know that simply viewing "The Patriot" or "John Wick" does not make one more prone to engaging in violent activity, available research cannot definitively say that actively enacting violence in a virtual space does not translate into reduced inhibition of violence in a real space (or - to avoid the double negative - that enacting violence does translate to reduced inhibition).  
 
@@ -23,12 +23,14 @@ We chose to address one particular, but important aspect of the game-gamer relat
 ______
 
 (What is World of Warcraft. 2 sentences)
+
 World of Warcraft (WoW) is a Massive Multiplayer Online Roleplay Game (MMORPG) released by video game developer and publisher Blizzard Entertainment, Inc. in 2004. The game had it's highest sbuscriber numbers in 2010 with over 12 Mio people playing worldwide. Though Blizzard decided not to make the official player number public anymore in 2015 due to decreasing numbers, estimations still guess the current sucscriber number of 2 - 3.5 Mio, wich still makes WoW the most popular MMORPG.
 WoW started in it's so called Vanilla version in 2004, and 7 expansion packs with more content (e.g., new races and classes, new areas) and changes/adjustments to the gamestyle were added since. Following the wish of the community of gamers, Blizzard re-released a version of "Vanilla WoW", called WoW Classic.
 We decided to focus our research on the Classic Version of WoW for two reasons, (1) the fewer options of races and race/class combination as well as the basic versions of class designs (referring to gamestyle) made player choices feel more impactful, (2) the release of Classic saw a certain hype by the player community, making subjects for the survey more easily accessable.
 
 
 (What options do players have. 2-3 sentences)
+
 WoW takes place in the so called Warcraft Universe, a setting that is also used by the real time strategy games Warcraft 1 (Orcs and Humans), Warcraft 2 (Tides of Darkness), Warcraft 3 (Reign of Chaos), including their individual expansion packs, as well as a plethora of books and other media. For a quick introduction into the world, see also [**The official Game-Trailer**](https://www.youtube.com/watch?v=vlVSJ0AvZe0&t=41s).
 The WoW Universe is takes the player to the fictional world of Azeroth, inviting them to create a virtual character and slip into the role of this character to embody and develop it. Players have a number of initial choices regarding character which will be explained in detail:
 
@@ -44,19 +46,21 @@ Noble Humans, adventurous Dwarfs, enigmatic Nightelves, and ingenious Gnomes for
 while brutal Orcs, shadowy Undead, spiritual Tauren, and quick-witted Trolls make up the horde (race-describing adjectives taken from the in-game description).
 
 Races
-(Human, Dwarf, Tauren, Orc, etc.) and 
+As mentioned, the player can choose from 8 different races in Classic WoW. The table below gives a qiock overview over the individual races:
+
+| Alliance Races   | Horde Races   |
+|:---:|:---:|
+| ![Human](Media/Images/tba.jpg) | ![Orc](Media/Images/tba.jpg) |
+| ![Dwarf](Media/Images/tba.jpg) | ![Undead](Media/Images/tba.jpg) |
+| ![Nightelve](Media/Images/tba.jpg) | ![Tauren](Media/Images/tba.jpg) |
+| ![Gnome](Media/Images/tba.jpg) | ![Troll](Media/Images/tba.jpg) |
+
 
 class (Hunter, Druid, Warlock, Rogue, etc.) 
 
 as well as numerous decisions affecting gameplay (player versus environment; player versus player; role-playing) and social interactions as they delve into Blizzard’s virtual worlds.
 
 (More detail on the ins and outs of WoW: focus on the races, character types, and classes. We want to relay enough detail to make it clear why one might choose a dwarf over a human, a tank over a healer, but not so much that we get lost in the weeds. 3-4 paragraphs, one each for races, classes, specializations/roles)
-
-Classic Races  
-![WoW](Media/Images/WoWRacesClassic.jpg)
-
-Races  
-![WoW](Media/Images/WoWRaces.png)  
 
 Classes  
 ![WoW](Media/Images/WoWClasses.png)  
