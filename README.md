@@ -77,13 +77,19 @@ After having chosen a race, a player in WoW will then be able to pick a class. P
 | Warlock | ![Warrior Icon](Media/Images/warlock.PNG) | DPS |
 | Warrior | ![Warrior Icon](Media/Images/warrior.PNG) | Tank, DPS |
 
+![Race Class Combo Overview](Media/Images/raceclasscombo.png)
 
-as well as numerous decisions affecting gameplay (player versus environment; player versus player; role-playing) and social interactions as they delve into Blizzard’s virtual worlds.
+Furthermore, the player may chose one of three general playstyles/server (in WoW called Realm) modes, being Player-vs-Environment (PvE), Player-vs-Player (PvP), or Roleplaying (RP).
+PvE focusses on besting enemies not controlled by other players but by the game (Non-Player characters, NPCs).
+In PvP, players tend to compete with other players in different competitions (e.g., 1v1 in open world skirmishes, or group activities like 10v10 capture the flag operations or similar).
+In RP, the players will concetrate more on the role playing nature of the game, focussing more on embodying their character and socialize within the game world.
+There is no strict distinction between the three game modes and parts of every mode can and will to a certain degree be present in all of them.
 
-(More detail on the ins and outs of WoW: focus on the races, character types, and classes. We want to relay enough detail to make it clear why one might choose a dwarf over a human, a tank over a healer, but not so much that we get lost in the weeds. 3-4 paragraphs, one each for races, classes, specializations/roles)
+Role description (Simon, later today)
+Tank
+Healer
+DPS
 
-Classes  
-![WoW](Media/Images/WoWClasses.png)  
 
 ______
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)  
