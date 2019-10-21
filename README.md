@@ -35,6 +35,7 @@ WoW takes place in the so called Warcraft Universe, a setting that is also used 
 The WoW Universe is takes the player to the fictional world of Azeroth, inviting them to create a virtual character and slip into the role of this character to embody and develop it. Players have a number of initial choices regarding character which will be explained in detail:
 
 Fraction:
+
 Each character in WoW belongs to one of two possible fractions, the Alliance or the Horde.
 
 | Alliance   | Horde   |
@@ -45,7 +46,8 @@ In Classic WoW, four races belong to each fraction:
 Noble Humans, adventurous Dwarfs, enigmatic Nightelves, and ingenious Gnomes form the Alliance 
 while brutal Orcs, shadowy Undead, spiritual Tauren, and quick-witted Trolls make up the horde (race-describing adjectives taken from the in-game description).
 
-Races
+Races:
+
 As mentioned, the player can choose from 8 different races in Classic WoW. The table below gives a qiock overview over the individual races:
 
 | Alliance Races   | Horde Races   |
@@ -61,8 +63,8 @@ As mentioned, the player can choose from 8 different races in Classic WoW. The t
 
 Alle pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
 
+Classes:
 
-Classes
 After having chosen a race, a player in WoW will then be able to pick a class. Players in WoW fulfill a certain role referring to their playstyle. In general, 3 roles can be distinguished: Tanks, Healer, and Damage-Dealer (DPS, short for damage per second). Not every class can fulfill every roll, some classes have different perks and traits that will benefit a certain role, and not every class can be picked by every race. As mentioned, players therefore are asked to make further initial choices to take a certain path with their character creation. The tables and images below list the different classes and roles they can fulfill.
 
 | Classname   | Icon   | Role   |
@@ -80,14 +82,21 @@ After having chosen a race, a player in WoW will then be able to pick a class. P
 ![Race Class Combo Overview](Media/Images/raceclasscombo.png)
 
 Furthermore, the player may chose one of three general playstyles/server (in WoW called Realm) modes, being Player-vs-Environment (PvE), Player-vs-Player (PvP), or Roleplaying (RP).
-PvE focusses on besting enemies not controlled by other players but by the game (Non-Player characters, NPCs).
-In PvP, players tend to compete with other players in different competitions (e.g., 1v1 in open world skirmishes, or group activities like 10v10 capture the flag operations or similar).
-In RP, the players will concetrate more on the role playing nature of the game, focussing more on embodying their character and socialize within the game world.
+
+| Game Mode   | Description   |
+|:---:|:---|
+| PvE | PvE focusses on besting enemies not controlled by other players but by the game (Non-Player characters, NPCs). |
+| PvP | In PvP, players tend to compete with other players in different competitions (e.g., 1v1 in open world skirmishes, or group activities like 10v10 capture the flag operations or similar). |
+| RP | In RP, the players will concetrate more on the role playing nature of the game, focussing more on embodying their character and socialize within the game world. |
+
 There is no strict distinction between the three game modes and parts of every mode can and will to a certain degree be present in all of them.
 
-Role description (Simon, later today)
+Role description: (Simon, later today)
+
 Tank
+
 Healer
+
 DPS
 
 
