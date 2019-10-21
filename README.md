@@ -23,10 +23,27 @@ We chose to address one particular, but important aspect of the game-gamer relat
 ______
 
 (What is World of Warcraft. 2 sentences)
+World of Warcraft (WoW) is a Massive Multiplayer Online Roleplay Game (MMORPG) released by video game developer and publisher Blizzard Entertainment, Inc. in 2004. The game had it's highest sbuscriber numbers in 2010 with over 12 Mio people playing worldwide. Though Blizzard decided not to make the official player number public anymore in 2015 due to decreasing numbers, estimations still guess the current sucscriber number of 2 - 3.5 Mio, wich still makes WoW the most popular MMORPG.
+WoW started in it's so called Vanilla version in 2004, and 7 expansion packs with more content (e.g., new races and classes, new areas) and changes/adjustments to the gamestyle were added since. Following the wish of the community of gamers, Blizzard re-released a version of "Vanilla WoW", called WoW Classic.
+We decided to focus our research on the Classic Version of WoW for two reasons, (1) the fewer options of races and race/class combination as well as the basic versions of class designs (referring to gamestyle) made player choices feel more impactful, (2) the release of Classic saw a certain hype by the player community, making subjects for the survey more easily accessable.
 
 
 (What options do players have. 2-3 sentences)
-World of Warcraft (WoW) players have several choices during the course of creating and developing the virtual characters and personas that they control and embody. Players have initial choices regarding their character’s overarching alignment (Alliance versus Horde), race (Human, Dwarf, Tauren, Orc, etc.) and class (Hunter, Druid, Warlock, Rogue, etc.) as well as numerous decisions affecting gameplay (player versus environment; player versus player; role-playing) and social interactions as they delve into Blizzard’s virtual worlds.
+WoW takes place in the so called Warcraft Universe, a setting that is also used by the real time strategy games Warcraft 1 (Orcs and Humans), Warcraft 2 (Tides of Darkness), Warcraft 3 (Reign of Chaos), including their individual expansion packs, as well as a plethora of books and other media. For a quick introduction into the world, see also [**The official Game-Trailer**](https://www.youtube.com/watch?v=vlVSJ0AvZe0&t=41s).
+The WoW Universe is takes the player to the fictional world of Azeroth, inviting them to create a virtual character and slip into the role of this character to embody and develop it. Players have a number of initial choices regarding character which will be explained in detail:
+
+Fraction:
+Each character in WoW belongs to one of two possible fractions, the Alliance or the Horde
+| Alliance   | Horde   |
+|:---:|:---:|
+| ![Alliance Banner](Media/Images/tba.jpg) | ![Horde Banner](Media/Images/tba.jpg) |
+overarching alignment (Alliance versus Horde), 
+
+race (Human, Dwarf, Tauren, Orc, etc.) and 
+
+class (Hunter, Druid, Warlock, Rogue, etc.) 
+
+as well as numerous decisions affecting gameplay (player versus environment; player versus player; role-playing) and social interactions as they delve into Blizzard’s virtual worlds.
 
 (More detail on the ins and outs of WoW: focus on the races, character types, and classes. We want to relay enough detail to make it clear why one might choose a dwarf over a human, a tank over a healer, but not so much that we get lost in the weeds. 3-4 paragraphs, one each for races, classes, specializations/roles)
 
