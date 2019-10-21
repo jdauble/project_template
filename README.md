@@ -50,13 +50,33 @@ As mentioned, the player can choose from 8 different races in Classic WoW. The t
 
 | Alliance Races   | Horde Races   |
 |:---:|:---:|
-| ![Human](Media/Images/tba.jpg) | ![Orc](Media/Images/tba.jpg) |
-| ![Dwarf](Media/Images/tba.jpg) | ![Undead](Media/Images/tba.jpg) |
-| ![Nightelve](Media/Images/tba.jpg) | ![Tauren](Media/Images/tba.jpg) |
-| ![Gnome](Media/Images/tba.jpg) | ![Troll](Media/Images/tba.jpg) |
+| ![Human](Media/Images/human.PNG) | ![Orc](Media/Images/orc.PNG) |
+| Human | Orc |
+| ![Dwarf](Media/Images/dwarf.PNG) | ![Undead](Media/Images/undead.PNG) |
+| Dwarf | Undead |
+| ![Nightelve](Media/Images/nightelve.PNG) | ![Tauren](Media/Images/tauren.PNG) |
+| Nightelve | Tauren |
+| ![Gnome](Media/Images/gnome.PNG) | ![Troll](Media/Images/troll.PNG) |
+| Gnome | Troll |
+
+Alle pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
 
 
-class (Hunter, Druid, Warlock, Rogue, etc.) 
+Classes
+After having chosen a race, a player in WoW will then be able to pick a class. Players in WoW fulfill a certain role referring to their playstyle. In general, 3 roles can be distinguished: Tanks, Healer, and Damage-Dealer (DPS, short for damage per second). Not every class can fulfill every roll, some classes have different perks and traits that will benefit a certain role, and not every class can be picked by every race. As mentioned, players therefore are asked to make further initial choices to take a certain path with their character creation. The tables and images below list the different classes and roles they can fulfill.
+
+| Classname   | Icon   | Role   |
+|:---:|:---:|:---:|
+| Druid | ![Druid Icon](Media/Images/tba) | Tank, Healer, DPS |
+| Hunter | ![Hunter Icon](Media/Images/tba) | DPS |
+| Mage | ![Mage Icon](Media/Images/tba) | DPS |
+| Paladin | ![Paladin Icon](Media/Images/tba) | Tank, Healer, DPS |
+| Priest | ![Priest Icon](Media/Images/tba) | Healer, DPS |
+| Rogue | ![Rogue Icon](Media/Images/tba) | DPS |
+| Shaman | ![Shaman Icon](Media/Images/tba) | Healer, DPS |
+| Warlock | ![Warrior Icon](Media/Images/tba) | DPS |
+| Warrior | ![Warrior Icon](Media/Images/tba) | Tank, DPS |
+
 
 as well as numerous decisions affecting gameplay (player versus environment; player versus player; role-playing) and social interactions as they delve into Blizzard’s virtual worlds.
 
