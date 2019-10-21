@@ -67,15 +67,15 @@ After having chosen a race, a player in WoW will then be able to pick a class. P
 
 | Classname   | Icon   | Role   |
 |:---:|:---:|:---:|
-| Druid | ![Druid Icon](Media/Images/tba) | Tank, Healer, DPS |
-| Hunter | ![Hunter Icon](Media/Images/tba) | DPS |
-| Mage | ![Mage Icon](Media/Images/tba) | DPS |
-| Paladin | ![Paladin Icon](Media/Images/tba) | Tank, Healer, DPS |
-| Priest | ![Priest Icon](Media/Images/tba) | Healer, DPS |
-| Rogue | ![Rogue Icon](Media/Images/tba) | DPS |
-| Shaman | ![Shaman Icon](Media/Images/tba) | Healer, DPS |
-| Warlock | ![Warrior Icon](Media/Images/tba) | DPS |
-| Warrior | ![Warrior Icon](Media/Images/tba) | Tank, DPS |
+| Druid | ![Druid Icon](Media/Images/druid.PNG) | Tank, Healer, DPS |
+| Hunter | ![Hunter Icon](Media/Images/hunter.PNG) | DPS |
+| Mage | ![Mage Icon](Media/Images/mage.PNG) | DPS |
+| Paladin | ![Paladin Icon](Media/Images/paladin.PNG) | Tank, Healer, DPS |
+| Priest | ![Priest Icon](Media/Images/priest.PNG) | Healer, DPS |
+| Rogue | ![Rogue Icon](Media/Images/rogue.PNG) | DPS |
+| Shaman | ![Shaman Icon](Media/Images/shaman.PNG) | Healer, DPS |
+| Warlock | ![Warrior Icon](Media/Images/warlock.PNG) | DPS |
+| Warrior | ![Warrior Icon](Media/Images/warrior.PNG) | Tank, DPS |
 
 
 as well as numerous decisions affecting gameplay (player versus environment; player versus player; role-playing) and social interactions as they delve into Blizzard’s virtual worlds.
