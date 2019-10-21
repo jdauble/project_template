@@ -50,10 +50,16 @@ As mentioned, the player can choose from 8 different races in Classic WoW. The t
 
 | Alliance Races   | Horde Races   |
 |:---:|:---:|
-| ![Human](Media/Images/tba.jpg) | ![Orc](Media/Images/tba.jpg) |
-| ![Dwarf](Media/Images/tba.jpg) | ![Undead](Media/Images/tba.jpg) |
-| ![Nightelve](Media/Images/tba.jpg) | ![Tauren](Media/Images/tba.jpg) |
-| ![Gnome](Media/Images/tba.jpg) | ![Troll](Media/Images/tba.jpg) |
+| ![Human](Media/Images/human.PNG) | ![Orc](Media/Images/orc.PNG) |
+| Human | Orc |
+| ![Dwarf](Media/Images/dwarf.PNG) | ![Undead](Media/Images/undead.PNG) |
+| Dwarf | Undead |
+| ![Nightelve](Media/Images/nightelve.PNG) | ![Tauren](Media/Images/tauren.PNG) |
+| Nightelve | Tauren |
+| ![Gnome](Media/Images/gnome.PNG) | ![Troll](Media/Images/troll.PNG) |
+| Gnome | Troll |
+
+Alle pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
 
 
 class (Hunter, Druid, Warlock, Rogue, etc.) 
