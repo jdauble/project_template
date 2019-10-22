@@ -20,19 +20,19 @@ We chose to address one particular, but important aspect of the game-gamer relat
 
 ______
 
-###What is World of Warcraft.
+### What is World of Warcraft.
 
 World of Warcraft (WoW) is a Massive Multiplayer Online Roleplay Game (MMORPG) released by video game developer and publisher Blizzard Entertainment, Inc. in 2004. The game had it's highest sbuscriber numbers in 2010 with over 12 Mio people playing worldwide. Though Blizzard decided not to make the official player number public anymore in 2015 due to decreasing numbers, estimations still guess the current sucscriber number of 2 - 3.5 Mio, wich still makes WoW the most popular MMORPG.
 WoW started in it's so called Vanilla version in 2004, and 7 expansion packs with more content (e.g., new races and classes, new areas) and changes/adjustments to the gamestyle were added since. Following the wish of the community of gamers, Blizzard re-released a version of "Vanilla WoW", called WoW Classic.
 We decided to focus our research on the Classic Version of WoW for two reasons, (1) the fewer options of races and race/class combination as well as the basic versions of class designs (referring to gamestyle) made player choices feel more impactful, (2) the release of Classic saw a certain hype by the player community, making subjects for the survey more easily accessable.
 
 
-#####Player Choices
+##### Player Choices
 
 WoW takes place in the so called Warcraft Universe, a setting that is also used by the real time strategy games Warcraft 1 (Orcs and Humans), Warcraft 2 (Tides of Darkness), Warcraft 3 (Reign of Chaos), including their individual expansion packs, as well as a plethora of books and other media. For a quick introduction into the world, see also [**The official Game-Trailer**](https://www.youtube.com/watch?v=vlVSJ0AvZe0&t=41s).
 The WoW Universe is takes the player to the fictional world of Azeroth, inviting them to create a virtual character and slip into the role of this character to embody and develop it. Players have a number of initial choices regarding character which will be explained in detail:
 
-#####Fraction:
+##### Fraction:
 
 Each character in WoW belongs to one of two possible fractions, the Alliance or the Horde.
 
@@ -44,7 +44,7 @@ In Classic WoW, four races belong to each fraction:
 Noble Humans, adventurous Dwarfs, enigmatic Nightelves, and ingenious Gnomes form the Alliance 
 while brutal Orcs, shadowy Undead, spiritual Tauren, and quick-witted Trolls make up the horde (race-describing adjectives taken from the in-game description).
 
-#####Races:
+##### Races:
 
 As mentioned, the player can choose from 8 different races in Classic WoW. The table below gives a qiock overview over the individual races:
 
@@ -61,7 +61,7 @@ As mentioned, the player can choose from 8 different races in Classic WoW. The t
 
 Alle pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
 
-#####Classes:
+##### Classes:
 
 After having chosen a race, a player in WoW will then be able to pick a class. Players in WoW fulfill a certain role referring to their playstyle. In general, 3 roles can be distinguished: Tanks, Healer, and Damage-Dealer (DPS, short for damage per second). Not every class can fulfill every roll, some classes have different perks and traits that will benefit a certain role, and not every class can be picked by every race. As mentioned, players therefore are asked to make further initial choices to take a certain path with their character creation. The tables and images below list the different classes and roles they can fulfill.
 
@@ -100,7 +100,7 @@ DPS
 
 ______
 
-#####The Present Study
+##### The Present Study
 To date, little research has addressed why individuals make the race, class, specialization, and playstyle choices that they do - a surprising revelation considering the prominence of World of Warcraft and the size of its player-base. Notably, only two scientific studies (Bean & Groth-Marnat, 2016; Harari, Graham, & Gosling, 2015) have questioned the impact of players’ personalities on their decision-making despite the apparent role of individual differences in determining player preferences. Bean and Groth-Marnat (2016) shared promising findings regarding the power of a Big Five Inventory based model to predict WoW players’ biological sex as well as their primary play-style; however, their model fell short of adequately predicting players’ character race, class, or specializations. It is possible that their investigation overlooked a major factor that would almost certainly confound the capacity of the model: player recurrence. Many veteran WoW players may choose to create a character and make choices in that character’s development that would not necessarily be driven by their personality, but rather by their previous experiences in the virtual world. We aim to more clearly investigate the influence of recurrence and perceived relation to one's avatar by administering two sets of WoW focused queries (random assignment): one which specifies "if you [the player] were to be creating a new character..." another which specifies "if you [the player] were making a character which best represented you...".
 
 The current investigation aims to replicate the investigation of Bean and Groth-Marnat (2016) by relying on a Big Five Inventory informed model to predict WoW players’ biological sex, chosen character sex, chosen alignment, chosen class, and preferred play-style with additional consideration of the effect that player recurrence may have on the model’s predictive power. Further, this study will not only ask participants to indicate their preferences, but also request responses to a reduced set of options regarding each of the predicted variables (e.g., rather than choosing from all races, players may be asked to choose "human" or "orc"). The purpose of presenting reduced options is to examine whether individual differences may have predictive power that is insufficient for capturing response patterns across all possible options, but may be sufficient to predict more clearly stratified decisions. 
@@ -113,7 +113,7 @@ The BFI is a 44 question measure of personality traits, Openness, Conscientiousn
  
 Models built on the personality traits measured by the BFI typically rely on general-linear modelling (often analyzed as the special case of multiple analysis of variance presented by Bean and Groth-Marnat (2016), though other forms of regression based analysis are also effective (see Crawford & Brandt, 2019; Kaspi-Baruch, 2017)) to predict outcomes based on the five measured personality traits. Such approaches allow researchers to investigate the relationships between each trait and predicted variables such as those of interest in the present study. Particularly, we anticipate the following predictive outcomes from our investigation:
  
-#####Hypotheses: 
+##### Hypotheses: 
 
 (Note: the following will be tested against appropriate null hypotheses and will be presented as alternative hypotheses for sake of clarity of purpose)
 
@@ -135,7 +135,7 @@ H6a: A combination of increased Conscientiousness scores, increased agreeablenes
 ______
 
 
-#####Contributions
+##### Contributions
 
 •	The current work will serve to replicate previous findings that have been reported in the literature (Bean & Groth-Marnat, 2016) regarding player preferences in World of Warcraft and the relationship between those preferences and players' self-reported personality traits  
 •	This project will also serve to extend the findings of Bean and Groth-Marnat (2016) by manipulating probe phrasing to provide insight into whether players intentionally choose avatars that reflect their perception of themselves, or whether they make their choices based on intrique or learning as a result of prior experience.  
@@ -143,26 +143,26 @@ ______
 
 ______
 
-#####Methods
+##### Methods
 
-######Participants
+###### Participants
 A total of 500 participants will be surveyed in this study: of those samples we anticipate a 8-15% removal rate due to incomplete answers or malingering. Participants will additionally be asked to participate in a follow-up, semi-structured interview to provide insight into their perceptions of the reasons for their own decision-making in the context of World of Warcraft. A maximum of 20 participants will participate in the follow-up.
 
-######Materials
+###### Materials
 The primary measueres used in this study are the full version of the Big Five Index, the Motivation to Play Online Games Questionnaire, and a Demographics survey. Surveys will be administered online through the Qualtrics survey interface. Follow-up interviews will rely on a semi-structured script to guide brief discussions regarding player's perceptions of their choices in World of Warcraft.
 
-######Experimental Design
+###### Experimental Design
 One variable will be employed as a between-subjects manipulation: player-avatar choice specification. The variable will have two levels such that in one condition players will be asked to indicate choices regarding the development of a new game avatar, and in the other condition plaeyrs will be asked to indicate choices regarding an avatar with which they would closely identify. All other outcome variables of interest will be incoporated into the statistical models for quasi-experimental analysis.
 
-######Procedure
+###### Procedure
 Participants who volunteer to participate in the study will be directed to view a brief informed consent approved by the UCF IRB followed by one of the World of Warcraft choice questionnaires (randomly assigned), the Motivations to Play Online Games Questionnaire, and the Demographics survey. Completion of the surveys will be followed by an explanation of the purpose of the research and a request for participants to provide an email address if they are interested in participating in the followup interviews.
 
-######Results
+##### Results
 We plan to analyze our results by using general linear models to explore the hypothesized relationships between factors of the Big Five Index and participants' responses to avatar development choices in World of Warcraft. 
 
 ______
 
-Measures:
+###### Measures:
 
 Big Five Index  
 ![WoW](Media/Images/BFI-1.PNG)  
