@@ -7,11 +7,9 @@
 >> * Jordan Dauble
 >> * Emmanuel Otero
 > * Project Title: A Mixed-Methods Analysis of Virtual Sociology in World of Warcraft
-
-## Introduction
-
 ![WoW](Media/Images/WoWClassicBackground.jpg)
 
+# Introduction
 According to Newzoo (2017) the video game industry has already oustripped film as a source of personal entertainment, is generating over a hundred billion dollars of revenue a year, and is continuing to grow at an impressive rate. Increasingly, young people (though the average age of gamers continues to gradually increase as gaming generations age) turn to video games as their main source of entertainment (Billieux, Van der Linden, Achab, Khazaal, Paraskevopoulos, Zulllino, and Thorens, 2013), and the shift away from more traditional modes of hedonic activity has yeilded the age-old knee jerk reaction: what effect will this have on our children? The primary focus of academic discontent surrounding video games has so far centered on the impact of violent video games (VVGs), and has concerned the additional risk that engagement with violent content may have on one's disposition and behaviors. The argument condemning violent video games is in many ways similar to those that blossomed during the early years of the film industry - violence begets violence, desensitization will lead to inhumanity, etc. - but it differs along the key dimension of complicity. Gamers do not simply view the content with which they engage, but are in fact part of a bidirectional and developing relationship with the content of their game. Particularly as video games increase in complexity and provide less constricted avenues of play, a player may have the capacity to influence a game world to a greater degree than they are imprisoned by its rules. Here is where the question of violent activities and content raises a wholly different question than has already been answered with regards to film media; while we now know that simply viewing "The Patriot" or "John Wick" does not make one more prone to engaging in violent activity, available research cannot definitively say that actively enacting violence in a virtual space does not translate into reduced inhibition of violence in a real space (or - to avoid the double negative - that enacting violence does translate to reduced inhibition).  
 
 The impact of violent video games on behavior is a nuanced topic that involves many levels of interaction between one's cognition and one's environment. When addressing the question of the interaction between external content and internal decision-making, we must acknowledge factors such as the nature of the violent content in question (sadistic, racial, sexual, impartially or chaotically violent, etc.), the role that one plays in engendering, facilitating, or perpetuating the violence, as well as the individual's perception of themselves as an active participant (note: this is by no means an exhaustive listing). Although the first two components may be readily quantified and discussed, the last presents many additional layers of obfuscation because it introduces factors not only of players' perceptions of the content with which they interact, but also their perceptions of themselves and the degree to which they perceive their interactions as meaningful or impactful at any level besides fulfilling a desire for play. Additionally, underlying factors may play a role in determining the actual, real-world impact of engaging with violent content. Past experiences, personality, social context, and other considerations may grossly outweigh simple descriptives of violent content when it comes to the actual impact of that content on an individual's congition and decision-making. Take, for example, a veteran who has personally experienced the realities of a battlefield versus an adolescent who has recently experienced bullying at school: when playing a game such as Call of Duty: World at War (admittedly violent, though historically informative) the former may engage with negative emotions due to the nature of the presented content and cease play with an increase in inhibition towards violent acts whereas the latter may thrive on the feelings of strength and power elicited from besting the in-game non-player-characters and walk away with a sense of boldness and desire to continue their feelings of power in the real world.  
@@ -22,19 +20,19 @@ We chose to address one particular, but important aspect of the game-gamer relat
 
 ______
 
-(What is World of Warcraft. 2 sentences)
+###What is World of Warcraft.
 
 World of Warcraft (WoW) is a Massive Multiplayer Online Roleplay Game (MMORPG) released by video game developer and publisher Blizzard Entertainment, Inc. in 2004. The game had it's highest sbuscriber numbers in 2010 with over 12 Mio people playing worldwide. Though Blizzard decided not to make the official player number public anymore in 2015 due to decreasing numbers, estimations still guess the current sucscriber number of 2 - 3.5 Mio, wich still makes WoW the most popular MMORPG.
 WoW started in it's so called Vanilla version in 2004, and 7 expansion packs with more content (e.g., new races and classes, new areas) and changes/adjustments to the gamestyle were added since. Following the wish of the community of gamers, Blizzard re-released a version of "Vanilla WoW", called WoW Classic.
 We decided to focus our research on the Classic Version of WoW for two reasons, (1) the fewer options of races and race/class combination as well as the basic versions of class designs (referring to gamestyle) made player choices feel more impactful, (2) the release of Classic saw a certain hype by the player community, making subjects for the survey more easily accessable.
 
 
-(What options do players have. 2-3 sentences)
+#####Player Choices
 
 WoW takes place in the so called Warcraft Universe, a setting that is also used by the real time strategy games Warcraft 1 (Orcs and Humans), Warcraft 2 (Tides of Darkness), Warcraft 3 (Reign of Chaos), including their individual expansion packs, as well as a plethora of books and other media. For a quick introduction into the world, see also [**The official Game-Trailer**](https://www.youtube.com/watch?v=vlVSJ0AvZe0&t=41s).
 The WoW Universe is takes the player to the fictional world of Azeroth, inviting them to create a virtual character and slip into the role of this character to embody and develop it. Players have a number of initial choices regarding character which will be explained in detail:
 
-Fraction:
+#####Fraction:
 
 Each character in WoW belongs to one of two possible fractions, the Alliance or the Horde.
 
@@ -46,7 +44,7 @@ In Classic WoW, four races belong to each fraction:
 Noble Humans, adventurous Dwarfs, enigmatic Nightelves, and ingenious Gnomes form the Alliance 
 while brutal Orcs, shadowy Undead, spiritual Tauren, and quick-witted Trolls make up the horde (race-describing adjectives taken from the in-game description).
 
-Races:
+#####Races:
 
 As mentioned, the player can choose from 8 different races in Classic WoW. The table below gives a qiock overview over the individual races:
 
@@ -63,7 +61,7 @@ As mentioned, the player can choose from 8 different races in Classic WoW. The t
 
 Alle pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
 
-Classes:
+#####Classes:
 
 After having chosen a race, a player in WoW will then be able to pick a class. Players in WoW fulfill a certain role referring to their playstyle. In general, 3 roles can be distinguished: Tanks, Healer, and Damage-Dealer (DPS, short for damage per second). Not every class can fulfill every roll, some classes have different perks and traits that will benefit a certain role, and not every class can be picked by every race. As mentioned, players therefore are asked to make further initial choices to take a certain path with their character creation. The tables and images below list the different classes and roles they can fulfill.
 
@@ -101,21 +99,21 @@ DPS
 
 
 ______
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)  
 
-To date, little research has addressed why individuals make the choices they do - a surprising revelation considering that WoW has consistently been ranked as one of the most played Massive Multiplayer Online Roleplaying Games since its release in 2004. Notably, only two scientific studies (Bean & Growth-Marnat, 2016; Harari, Graham, & Gosling, 2015) have questioned the impact of players’ personalities on their decision-making despite the apparent role of individual differences in determining player preferences.   
+#####The Present Study
+To date, little research has addressed why individuals make the race, class, specialization, and playstyle choices that they do - a surprising revelation considering the prominence of World of Warcraft and the size of its player-base. Notably, only two scientific studies (Bean & Groth-Marnat, 2016; Harari, Graham, & Gosling, 2015) have questioned the impact of players’ personalities on their decision-making despite the apparent role of individual differences in determining player preferences. Bean and Groth-Marnat (2016) shared promising findings regarding the power of a Big Five Inventory based model to predict WoW players’ biological sex as well as their primary play-style; however, their model fell short of adequately predicting players’ character race, class, or specializations. It is possible that their investigation overlooked a major factor that would almost certainly confound the capacity of the model: player recurrence. Many veteran WoW players may choose to create a character and make choices in that character’s development that would not necessarily be driven by their personality, but rather by their previous experiences in the virtual world. We aim to more clearly investigate the influence of recurrence and perceived relation to one's avatar by administering two sets of WoW focused queries (random assignment): one which specifies "if you [the player] were to be creating a new character..." another which specifies "if you [the player] were making a character which best represented you...".
 
-______
+The current investigation aims to replicate the investigation of Bean and Groth-Marnat (2016) by relying on a Big Five Inventory informed model to predict WoW players’ biological sex, chosen character sex, chosen alignment, chosen class, and preferred play-style with additional consideration of the effect that player recurrence may have on the model’s predictive power. Further, this study will not only ask participants to indicate their preferences, but also request responses to a reduced set of options regarding each of the predicted variables (e.g., rather than choosing from all races, players may be asked to choose "human" or "orc"). The purpose of presenting reduced options is to examine whether individual differences may have predictive power that is insufficient for capturing response patterns across all possible options, but may be sufficient to predict more clearly stratified decisions. 
 
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
+![BFI](Media/Images/BFI.png)
 
-Research Question:
+The BFI is a 44 question measure of personality traits, Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (recently the model was referred to as OCEAN, now it tends to be called BFI)(John & Srivastava, 1999). The model has been employed in a wide range of psychological, social, and clinical studies to predict various behavioral and performance outcomes ranging from engagement with new technologies to tendency towards addiction. The BFI has a history of succesful application in the world of video games, and has recently been a cornerstone of research investigating the effect of violent video games and individual differences (Bean, 2015; Bean, Ferro, Vissoci, Rivero, & Groth-Marnat, 2016; Delhove & Greitemeyer, 2018)
 
-Bean and Groth-Marnat (2016) shared promising findings regarding the power of a Big Five Inventory based model to predict WoW players’ biological sex as well as their primary play-style; however, their model fell short of adequately predicting players’ character race, class, or specializations. It is possible that their investigation overlooked a major factor that would almost certainly confound the capacity of the model: player recurrence. Many veteran WoW players may choose to create a character and make choices in that character’s development that would not necessarily be driven by their personality, but rather by their previous experiences in the virtual world. Accordingly, the current investigation aims to replicate the investigation of Bean and Groth-Marnat (2016) by relying on a Big Five Inventory informed model to predict WoW players’ biological sex, chosen character sex, chosen alignment, chosen class, and preferred play-style with additional consideration of the effect that player recurrence may have on the model’s predictive power. In addition, this study will not only ask participants to indicate their preferences, but also request responses to a three-way decision set regarding each of the predicted variables (e.g., participants may indicate they prefer “cleric,” but when asked to choose between “priest, paladin, or death knight” they may choose paladin which more clearly delineates their class preferences) in order to avoid the pitfall of over-specificity which may lead to meaningless results.
-
-![WoW](Media/Images/BFI.png)
+![BFIDescriptions](Media/Images/BFIDescriptions.PNG)
  
-Hypotheses:
+Models built on the personality traits measured by the BFI typically rely on general-linear modelling (often analyzed as the special case of multiple analysis of variance presented by Bean and Groth-Marnat (2016), though other forms of regression based analysis are also effective (see Crawford & Brandt, 2019; Kaspi-Baruch, 2017)) to predict outcomes based on the five measured personality traits. Such approaches allow researchers to investigate the relationships between each trait and predicted variables such as those of interest in the present study. Particularly, we anticipate the following predictive outcomes from our investigation:
+ 
+#####Hypotheses: 
 
 (Note: the following will be tested against appropriate null hypotheses and will be presented as alternative hypotheses for sake of clarity of purpose)
 
@@ -129,12 +127,41 @@ H2a: A combination of higher Extraversion scores, lower Agreeableness scores, lo
 
 H3a: A combination of higher Extraversion and lower Neuroticism scores will positively predict player preferences towards PvP play-styles as opposed to RP or PvE.
 
-H4a: Participants’ personality traits will not significantly predict their free-responses to queries regarding race and class.
+H4a: Participants’ personality traits will predict their free-responses to queries regarding race and class.
 
 H5a: Participants’ personality traits will predict their responses to three-choice forced queries regarding race and class.
 
 H6a: A combination of increased Conscientiousness scores, increased agreeableness scores, and decreased Extraversion scores will predict players’ alignment such that those exhibiting those traits will be more likely to align with Alliance forces than the Horde.
 ______
+
+
+#####Contributions
+
+•	The current work will serve to replicate previous findings that have been reported in the literature (Bean & Groth-Marnat, 2016) regarding player preferences in World of Warcraft and the relationship between those preferences and players' self-reported personality traits  
+•	This project will also serve to extend the findings of Bean and Groth-Marnat (2016) by manipulating probe phrasing to provide insight into whether players intentionally choose avatars that reflect their perception of themselves, or whether they make their choices based on intrique or learning as a result of prior experience.  
+•	Additionally, this project will shed light on the directionality of the relationship between personality and play style which is a significant and often overlooked factor of the supposed impact of violent video games.  
+
+______
+
+#####Methods
+
+######Participants
+A total of 500 participants will be surveyed in this study: of those samples we anticipate a 8-15% removal rate due to incomplete answers or malingering. Participants will additionally be asked to participate in a follow-up, semi-structured interview to provide insight into their perceptions of the reasons for their own decision-making in the context of World of Warcraft. A maximum of 20 participants will participate in the follow-up.
+
+######Materials
+The primary measueres used in this study are the full version of the Big Five Index, the Motivation to Play Online Games Questionnaire, and a Demographics survey. Surveys will be administered online through the Qualtrics survey interface. Follow-up interviews will rely on a semi-structured script to guide brief discussions regarding player's perceptions of their choices in World of Warcraft.
+
+######Experimental Design
+One variable will be employed as a between-subjects manipulation: player-avatar choice specification. The variable will have two levels such that in one condition players will be asked to indicate choices regarding the development of a new game avatar, and in the other condition plaeyrs will be asked to indicate choices regarding an avatar with which they would closely identify. All other outcome variables of interest will be incoporated into the statistical models for quasi-experimental analysis.
+
+######Procedure
+Participants who volunteer to participate in the study will be directed to view a brief informed consent approved by the UCF IRB followed by one of the World of Warcraft choice questionnaires (randomly assigned), the Motivations to Play Online Games Questionnaire, and the Demographics survey. Completion of the surveys will be followed by an explanation of the purpose of the research and a request for participants to provide an email address if they are interested in participating in the followup interviews.
+
+######Results
+We plan to analyze our results by using general linear models to explore the hypothesized relationships between factors of the Big Five Index and participants' responses to avatar development choices in World of Warcraft. 
+
+______
+
 Measures:
 
 Big Five Index  
@@ -148,30 +175,30 @@ Motivation to Play Online Games
 Demographics   
 ![WoW](Media/Images/Demo-1.PNG)  
 ![WoW](Media/Images/Demo-2.PNG)  
-______
-
-(Contributions. An enumeration of the contributions of the senior design project)
-
-•	The current work will serve to replicate previous findings that have been reported in the literature (Bean & Groth-Marnat, 2016) regarding player preferences in World of Warcraft and the relationship between those preferences and players' self-reported personality traits  
-•	This project will also serve to extend the findings of Bean and Groth-Marnat (2016) by manipulating probe phrasing to provide insight into whether players intentionally choose avatars that reflect their perception of themselves, or whether they make their choices based on intrique or learning as a result of prior experience.  
-•	Additionally, this project will shed light on the directionality of the relationship between personality and play style which is a significant and often overlooked factor of the supposed imapct of violent video games.  
 
 ______
-
-## Related Work
-
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 ## References 
-(Using APA citations)
+
+Bean, A. M. (2015). Video gamers' personas: A five factor study exploring personality elements of the video gamer. Pacifica Graduate Institute.
+
+Bean, A. M., Ferro, L. S., Vissoci, J. R. N., Rivero, T., & Groth-Marnat, G. (2016). The emerging adolescent World of Warcraft video gamer: A five factor exploratory profile model. Entertainment Computing, 17, 45-54.
 
 Bean, A., & Groth-Marnat, G. (2016). Video gamers and personality: A five-factor model to understand game playing style. Psychology of Popular Media Culture, 5(1), 27.
 
 Billieux, J., Van der Linden, M., Achab, S., Khazaal, Y., Paraskevopoulos, L., Zullino, D., & Thorens, G. (2013). Why do you play World of Warcraft? An in-depth exploration of self-reported motivations to play online and in-game behaviours in the virtual world of Azeroth. Computers in Human Behavior, 29(1), 103-109.
 
+Crawford, J., Brandt, M. (2019). Who is prejudiced, and toward whom? The big five traits and generalized prejudice. Personality and Social Psychology Bulletin, 45(10), 1455-1467.
+
+Delhove, M., & Greitemeyer, T. (2018). The relationship between video game character preferences and aggressive and pro-social personality traits. Psychology of Popular Media Culture, 11.
+
 Dunn, R. A., & Guadagno, R. E. (2012). My avatar and me–Gender and personality predictors of avatar-self discrepancy. Computers in Human Behavior, 28(1), 97-106.
 
 Jimenez, N., San-Martin, S., Camarero, C., & San Jose Cabezudo, R. (2019). What kind of video gamer are you?. Journal of Consumer Marketing, 36(1), 218-227.
+
+John, O. P., & Srivastava, S. (1999). The Big-Five trait taxonomy: History, measurement, and theoretical perspectives. In L. A. Pervin & O. P. John (Eds.), Handbook of personality: Theory and research (Vol. 2, pp. 102–138). New York: Guilford Press. 
+
+Kaspi-Baruch, O. (2017). Big Five Personality and Creativity: The Moderating Effect of Motivational Goal Orientation. The Journal of Creative Behavior, 53(3), https://doi-org.ezproxy.net.ucf.edu/10.1002/jocb.183
 
 Halim, Z., Atif, M., Rashid, A., & Edwin, C. A. (2017). Profiling players using real-world datasets: Clustering the data and correlating the results with the big-five personality traits. IEEE Transactions on Affective Computing.
 
@@ -181,14 +208,12 @@ Newzoo. (2017). The global games market will reach $108.9 billion in 2017 with m
 
 Weiss, A., & Tettegah, S. (2012). World of race war: Race and learning in World of Warcraft. International Journal of Gaming and Computer-Mediated Simulations (IJGCMS), 4(4), 33-44.
 
-
+______
 TO REVIEW:
 
 Ask, K., & Sørensen, K. H. (2019). Domesticating technology for shared success: collective enactments of World of Warcraft. Information, Communication & Society, 22(1), 73-88.
 
 Fernandes, L. V., Castanho, C. D., & Jacobi, R. P. (2018, October). A Survey on Game Analytics in Massive Multiplayer Online Games. In 2018 17th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 21-2109). IEEE.
-
-Delhove, M., & Greitemeyer, T. (2018). The relationship between video game character preferences and aggressive and pro-social personality traits. Psychology of Popular Media Culture, 11.
 
 Siqueira, E. S., Castanho, C. D., Rodrigues, G. N., & Jacobi, R. P. (2017, November). A data analysis of player in world of warcraft using game data mining. In 2017 16th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 1-9). IEEE.
 
@@ -198,13 +223,9 @@ Hornbeck, R. G. (2016). Explaining time spent in multiplayer online games: Moral
 
 Root, R. (2016). Navigating Sociotechnical Power Structures: Dynamics of Conflict in World of Warcraft's Player versus Player Events.
 
-Bean, A. M., Ferro, L. S., Vissoci, J. R. N., Rivero, T., & Groth-Marnat, G. (2016). The emerging adolescent World of Warcraft video gamer: A five factor exploratory profile model. Entertainment Computing, 17, 45-54.
-
 Ferro, L. (2016). Projekt. ID: investigating how game elements and mechanics can be aligned to players preferences.
 
 Sapach, S. C. (2015). The WoW Factor: A Virtual Ethnographic Study of Sacred Things and Rituals in World of Warcraft.
-
-Bean, A. M. (2015). Video gamers' personas: A five factor study exploring personality elements of the video gamer. Pacifica Graduate Institute.
 
 Golub, A. (2014). The anthropology of virtual worlds: world of warcraft. Reviews in Anthropology, 43(2), 135-149.
 
