@@ -16,7 +16,7 @@ The impact of violent video games on behavior is a nuanced topic that involves m
 
 Currently, it is unclear whether a directionality exists in the relationship between video gamers, the content they experience, and their subsequent behavior. The previously given example operates on the assumption that video game content has an effect on behavior which is mediated (or perhaps moderated) by past experience; however, many other solutions are equally likely. One approach that has been presented to shed some light on the equation of gamer-game-behavior relies on measurement of the inherent personality of gamers. Personality has been presented as a potential solution to predicting behavior/preferences in many fields (to varying degrees of success), and lends itself here to addressing the ambiguity of whether game content on its own may significantly impact all gamers or whether content primarily influences those with an affinity or predisposition to its acceptance. This is a vital point in the argument for or against violent video games because assuming that violent video games are the driving force behind violent tendencies neglects the reality that gamers exist before and beyond the games they play.  
 
-Several previous studies have examined player motivations in World of Warcraft. (Debeauvais et. al 2011). Others have examined real-life player characteristics, such as finding that MMO players are less religious and more physically fit on average than the general population. (William et. al 2008). One study found that female MMO users are on average older than male players and that players under the age of 18 are almost entirely male (Yee, 2006). 
+Several previous studies have examined player motivations in World of Warcraft and their relationship with player retention. (Debeauvais et. al 2011, Siqueira et. al 2018). This data is critical to determining player resubscription rates that will affect the ability of the gaming company to maintain the game and develop new expansions. Other researchers have examined real-life player characteristics, such as finding that MMO players are less religious and more physically fit on average than the general population. (William et. al 2008). One study found that female MMO users are on average older than male players and that players under the age of 18 are almost entirely male (Yee, 2006). Apart from Bean, the Big Five Inventory model has been applied to World of Warcraft and other games by attempting to classify in-game player personalities by combining a survey of a subset of users with machine learning analysis of game usage data (Halim 2017).
 
 We chose to address one particular, but important aspect of the game-gamer relationship by focusing on the ability of inherent personality traits to predict players' choices in virtual worlds. Determining whether gamers' preexisting tendencies reliably impact their in-game choices is a vital first step to examining the effect of video games on behavior, and can provide insight into the most persistent variable in the equation: the players themselves. To accomplish this investigation, we built on the approach presented by Bean and Groth-Marnat (2016) who focused on the role of player personality on decision-making in the virtual environment of World of Warcraft. 
 
@@ -182,12 +182,6 @@ ______
 
 ## References 
 
-Thomas Debeauvais, Bonnie Nardi, Diane J. Schiano, Nicolas Ducheneaut, & Nicholas Yee. (2011). If you build it they might stay: retention mechanisms in World of Warcraft. Retrieved from https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=edsbas&AN=edsbas.9E0AA86F&site=eds-live&scope=site
-
-Yee, N. nyee@stanford. ed. (2006). The Demographics, Motivations, and Derived Experiences of Users of Massively Multi-User Online Graphical Environments. Presence: Teleoperators & Virtual Environments, 15(3), 309–329. https://doi-org.ezproxy.net.ucf.edu/10.1162/pres.15.3.309
-
-Williams, D., Yee, N., & Caplan, S. E. (2008). Who plays, how much, and why? Debunking the stereotypical gamer profile. Journal of Computer-Mediated Communication, (4), 993. Retrieved from https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=edsgao&AN=edsgcl.184411873&site=eds-live&scope=site
-
 Bean, A. M. (2015). Video gamers' personas: A five factor study exploring personality elements of the video gamer. Pacifica Graduate Institute.
 
 Bean, A. M., Ferro, L. S., Vissoci, J. R. N., Rivero, T., & Groth-Marnat, G. (2016). The emerging adolescent World of Warcraft video gamer: A five factor exploratory profile model. Entertainment Computing, 17, 45-54.
@@ -197,6 +191,8 @@ Bean, A., & Groth-Marnat, G. (2016). Video gamers and personality: A five-factor
 Billieux, J., Van der Linden, M., Achab, S., Khazaal, Y., Paraskevopoulos, L., Zullino, D., & Thorens, G. (2013). Why do you play World of Warcraft? An in-depth exploration of self-reported motivations to play online and in-game behaviours in the virtual world of Azeroth. Computers in Human Behavior, 29(1), 103-109.
 
 Crawford, J., Brandt, M. (2019). Who is prejudiced, and toward whom? The big five traits and generalized prejudice. Personality and Social Psychology Bulletin, 45(10), 1455-1467.
+
+Debeauvais, T., Nardi, B., Schiano, D., Ducheneaut, N., & Yee N. (2011). If you build it they might stay: retention mechanisms in World of Warcraft. Retrieved from https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=edsbas&AN=edsbas.9E0AA86F&site=eds-live&scope=site
 
 Delhove, M., & Greitemeyer, T. (2018). The relationship between video game character preferences and aggressive and pro-social personality traits. Psychology of Popular Media Culture, 11.
 
@@ -214,7 +210,13 @@ Harari, G., Graham, L., Gosling, S. (2015). Personality Impressions of World of 
 
 Newzoo. (2017). The global games market will reach $108.9 billion in 2017 with mobile taking 42%. Retrieved from https://newzoo.com/insights/articles/the-global-games-market-will-reach-108-9-billion-in-2017-with-mobile-taking-42/
 
+Siqueira, E. S., Castanho, C. D., Rodrigues, G. N., & Jacobi, R. P. (2017, November). A data analysis of player in world of warcraft using game data mining. In 2017 16th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 1-9). IEEE.
+
 Weiss, A., & Tettegah, S. (2012). World of race war: Race and learning in World of Warcraft. International Journal of Gaming and Computer-Mediated Simulations (IJGCMS), 4(4), 33-44.
+
+Williams, D., Yee, N., & Caplan, S. E. (2008). Who plays, how much, and why? Debunking the stereotypical gamer profile. Journal of Computer-Mediated Communication, (4), 993. Retrieved from https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=edsgao&AN=edsgcl.184411873&site=eds-live&scope=site
+
+Yee, N. nyee@stanford. ed. (2006). The Demographics, Motivations, and Derived Experiences of Users of Massively Multi-User Online Graphical Environments. Presence: Teleoperators & Virtual Environments, 15(3), 309–329. https://doi-org.ezproxy.net.ucf.edu/10.1162/pres.15.3.309
 
 ______
 TO REVIEW:
@@ -223,7 +225,6 @@ Ask, K., & Sørensen, K. H. (2019). Domesticating technology for shared success:
 
 Fernandes, L. V., Castanho, C. D., & Jacobi, R. P. (2018, October). A Survey on Game Analytics in Massive Multiplayer Online Games. In 2018 17th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 21-2109). IEEE.
 
-Siqueira, E. S., Castanho, C. D., Rodrigues, G. N., & Jacobi, R. P. (2017, November). A data analysis of player in world of warcraft using game data mining. In 2017 16th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 1-9). IEEE.
 
 Bainbridge, W. S. (2016). Virtual sociocultural convergence. Springer International Publishing.
 
