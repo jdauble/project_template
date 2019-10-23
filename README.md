@@ -61,7 +61,7 @@ As mentioned, the player can choose from 8 different races in Classic WoW. The t
 | ![Gnome](Media/Images/gnome.PNG) | ![Troll](Media/Images/troll.PNG) |
 | Gnome | Troll |
 
-Alle pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
+All pictures were taken from the [**WoW Head Dressing Room**](https://www.wowhead.com/news=291960/wow-classic-model-viewer-spotlight-create-your-character-in-the-dressing-room)
 
 ##### Classes:
 
@@ -91,14 +91,23 @@ Furthermore, the player may chose one of three general playstyles/server (in WoW
 
 There is no strict distinction between the three game modes and parts of every mode can and will to a certain degree be present in all of them.
 
-Role description: (Simon, later today)
+Role description:
 
 Tank
 
+Tanks make up the frontline in a fight against non-player enemies. They are equiped with strong armor and have a large healthpool at their disposal. This enables them to withstand strong attacks. Tanks use their skillset and toolkit to draw the enemies attentien and have them focus their attacks on themselves.
+
+
 Healer
+
+Healers choose from a number of beneficial spells of their skillset in order to refill the healthbars of their party members. While a tank may survive several hits of an enemy, over time he would get worn down. A healer enables the party to keep going with the fight and also safes his allies should they be carelessly taking damage.
+
 
 DPS
 
+It is the job of the damage dealers to bring an enemies hitpoints to zero before the healer runs out of mana (which is the magic energy spellcasters use to perform their spells) and the tank and then inevitably the rest of the group dies. In order to perform well, a DPS player needs to know his skilset and optimize the use of his skills so that he will put out as much damage as possible in a given timeframe. 
+
+Furthermore, it is important for every type of player to avoid taking unnecessary damage. Therefore, some form of awareness for the surroundings of each player as well as some knowledge of upcoming fights is needed.
 
 ______
 
