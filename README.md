@@ -16,6 +16,8 @@ The impact of violent video games on behavior is a nuanced topic that involves m
 
 Currently, it is unclear whether a directionality exists in the relationship between video gamers, the content they experience, and their subsequent behavior. The previously given example operates on the assumption that video game content has an effect on behavior which is mediated (or perhaps moderated) by past experience; however, many other solutions are equally likely. One approach that has been presented to shed some light on the equation of gamer-game-behavior relies on measurement of the inherent personality of gamers. Personality has been presented as a potential solution to predicting behavior/preferences in many fields (to varying degrees of success), and lends itself here to addressing the ambiguity of whether game content on its own may significantly impact all gamers or whether content primarily influences those with an affinity or predisposition to its acceptance. This is a vital point in the argument for or against violent video games because assuming that violent video games are the driving force behind violent tendencies neglects the reality that gamers exist before and beyond the games they play.  
 
+Several previous studies have examined player motivations in World of Warcraft. (Debeauvais et. al 2011). Others have examined real-life player characteristics, such as finding that MMO players are less religious and more physically fit on average than the general population. (William et. al 2008). One study found that female MMO users are on average older than male players and that players under the age of 18 are almost entirely male (Yee, 2006). 
+
 We chose to address one particular, but important aspect of the game-gamer relationship by focusing on the ability of inherent personality traits to predict players' choices in virtual worlds. Determining whether gamers' preexisting tendencies reliably impact their in-game choices is a vital first step to examining the effect of video games on behavior, and can provide insight into the most persistent variable in the equation: the players themselves. To accomplish this investigation, we built on the approach presented by Bean and Groth-Marnat (2016) who focused on the role of player personality on decision-making in the virtual environment of World of Warcraft. 
 
 ______
@@ -179,6 +181,12 @@ Demographics
 ______
 
 ## References 
+
+Thomas Debeauvais, Bonnie Nardi, Diane J. Schiano, Nicolas Ducheneaut, & Nicholas Yee. (2011). If you build it they might stay: retention mechanisms in World of Warcraft. Retrieved from https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=edsbas&AN=edsbas.9E0AA86F&site=eds-live&scope=site
+
+Yee, N. nyee@stanford. ed. (2006). The Demographics, Motivations, and Derived Experiences of Users of Massively Multi-User Online Graphical Environments. Presence: Teleoperators & Virtual Environments, 15(3), 309–329. https://doi-org.ezproxy.net.ucf.edu/10.1162/pres.15.3.309
+
+Williams, D., Yee, N., & Caplan, S. E. (2008). Who plays, how much, and why? Debunking the stereotypical gamer profile. Journal of Computer-Mediated Communication, (4), 993. Retrieved from https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=edsgao&AN=edsgcl.184411873&site=eds-live&scope=site
 
 Bean, A. M. (2015). Video gamers' personas: A five factor study exploring personality elements of the video gamer. Pacifica Graduate Institute.
 
