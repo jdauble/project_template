@@ -1,0 +1,11 @@
+SEGMENTS:
+classic wow footage\webpages
+bean's paper
+short clips/scenes that quickly show the different playstyles (tanking, healing, meele/ranged dps)
+presentation slides
+github project page
+audio narration
+
+
+TASKS:
+jordan will combine these video segments using Camtasia
