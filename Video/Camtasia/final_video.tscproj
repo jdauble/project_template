@@ -1,0 +1,2552 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "0.5",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia Studio",
+    "platform" : "Windows",
+    "version" : "9.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide1.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T025854",
+      "sourceTracks" : [
+        {
+          "range" : [0, 8127000],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 8127000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide2.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T025950",
+      "sourceTracks" : [
+        {
+          "range" : [0, 19040332],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 19040332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide3.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030059",
+      "sourceTracks" : [
+        {
+          "range" : [0, 48761886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 48761886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide4.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030140",
+      "sourceTracks" : [
+        {
+          "range" : [0, 63390443],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 63390443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide5.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030211",
+      "sourceTracks" : [
+        {
+          "range" : [0, 62461665],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 62461665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide6.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030241",
+      "sourceTracks" : [
+        {
+          "range" : [0, 45278886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 45278886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide7.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030314",
+      "sourceTracks" : [
+        {
+          "range" : [0, 74303886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 74303886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide8.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030345",
+      "sourceTracks" : [
+        {
+          "range" : [0, 64319221],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 64319221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide9.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030414",
+      "sourceTracks" : [
+        {
+          "range" : [0, 38312886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 38312886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide10.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030441",
+      "sourceTracks" : [
+        {
+          "range" : [0, 55727886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 55727886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide11.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030527",
+      "sourceTracks" : [
+        {
+          "range" : [0, 43653554],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 43653554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 12,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide12.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030600",
+      "sourceTracks" : [
+        {
+          "range" : [0, 81037665],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 81037665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 13,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide13.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030632",
+      "sourceTracks" : [
+        {
+          "range" : [0, 56656665],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 56656665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 14,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide14.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030708",
+      "sourceTracks" : [
+        {
+          "range" : [0, 26703000],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 26703000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 15,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide15.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030739",
+      "sourceTracks" : [
+        {
+          "range" : [0, 77786886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 77786886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 16,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide16.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030810",
+      "sourceTracks" : [
+        {
+          "range" : [0, 67570110],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 67570110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 17,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide17.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030837",
+      "sourceTracks" : [
+        {
+          "range" : [0, 12770997],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 12770997],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 18,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide18.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030909",
+      "sourceTracks" : [
+        {
+          "range" : [0, 138623111],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 138623111],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 19,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide19.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T030949",
+      "sourceTracks" : [
+        {
+          "range" : [0, 101238997],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 101238997],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 20,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide20.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031028",
+      "sourceTracks" : [
+        {
+          "range" : [0, 107972775],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 107972775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 21,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide21.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031057",
+      "sourceTracks" : [
+        {
+          "range" : [0, 74303886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 74303886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 22,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide22.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031124",
+      "sourceTracks" : [
+        {
+          "range" : [0, 80573221],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 80573221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 23,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide23.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031155",
+      "sourceTracks" : [
+        {
+          "range" : [0, 71749665],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 71749665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 24,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide24.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031223",
+      "sourceTracks" : [
+        {
+          "range" : [0, 61068443],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 61068443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 25,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide25.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031249",
+      "sourceTracks" : [
+        {
+          "range" : [0, 38312886],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 38312886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 26,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\slide26.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T031316",
+      "sourceTracks" : [
+        {
+          "range" : [0, 72678443],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 72678443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 27,
+      "src" : "D:\\Repositories\\Jordan\\project_template\\Video\\Camtasia\\Recordings\\website_segment.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20191209T032101",
+      "sourceTracks" : [
+        {
+          "range" : [0, 319970997],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 319970997],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 28,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 180.233333333333,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 29,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 30,
+                          "_type" : "VMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide1"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 129,
+                          "duration" : 24,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 24,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 31,
+                          "_type" : "AMFile",
+                          "src" : 1,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 129,
+                          "duration" : 24,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 24,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 129,
+                    "duration" : 24,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 24,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 32,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 33,
+                          "_type" : "VMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide2"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 328,
+                          "duration" : 57,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 57,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 34,
+                          "_type" : "AMFile",
+                          "src" : 2,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 328,
+                          "duration" : 57,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 57,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 328,
+                    "duration" : 57,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 57,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 35,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 36,
+                          "_type" : "VMFile",
+                          "src" : 3,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide3"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 393,
+                          "duration" : 146,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 146,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 37,
+                          "_type" : "AMFile",
+                          "src" : 3,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 393,
+                          "duration" : 146,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 146,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 393,
+                    "duration" : 146,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 146,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 38,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 39,
+                          "_type" : "VMFile",
+                          "src" : 4,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide4"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 557,
+                          "duration" : 189,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 189,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 40,
+                          "_type" : "AMFile",
+                          "src" : 4,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 557,
+                          "duration" : 189,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 189,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 557,
+                    "duration" : 189,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 189,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 41,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 42,
+                          "_type" : "VMFile",
+                          "src" : 5,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide5"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 764,
+                          "duration" : 186,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 186,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 43,
+                          "_type" : "AMFile",
+                          "src" : 5,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 764,
+                          "duration" : 186,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 186,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 764,
+                    "duration" : 186,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 186,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 44,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 45,
+                          "_type" : "VMFile",
+                          "src" : 6,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide6"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 958,
+                          "duration" : 135,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 135,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 46,
+                          "_type" : "AMFile",
+                          "src" : 6,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 958,
+                          "duration" : 135,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 135,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 958,
+                    "duration" : 135,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 135,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 47,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 48,
+                          "_type" : "VMFile",
+                          "src" : 7,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide7"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1115,
+                          "duration" : 222,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 222,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 49,
+                          "_type" : "AMFile",
+                          "src" : 7,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 1115,
+                          "duration" : 222,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 222,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 1115,
+                    "duration" : 222,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 222,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 50,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 51,
+                          "_type" : "VMFile",
+                          "src" : 8,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide8"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1350,
+                          "duration" : 192,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 192,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 52,
+                          "_type" : "AMFile",
+                          "src" : 8,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 1350,
+                          "duration" : 192,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 192,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 1350,
+                    "duration" : 192,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 192,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 53,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 54,
+                          "_type" : "VMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide9"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1560,
+                          "duration" : 114,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 114,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 55,
+                          "_type" : "AMFile",
+                          "src" : 9,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 1560,
+                          "duration" : 114,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 114,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 1560,
+                    "duration" : 114,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 114,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 56,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 57,
+                          "_type" : "VMFile",
+                          "src" : 10,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide10"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1686,
+                          "duration" : 167,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 167,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 58,
+                          "_type" : "AMFile",
+                          "src" : 10,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 1686,
+                          "duration" : 167,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 167,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 1686,
+                    "duration" : 167,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 167,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 59,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 60,
+                          "_type" : "VMFile",
+                          "src" : 11,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide11"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1862,
+                          "duration" : 131,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 131,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 61,
+                          "_type" : "AMFile",
+                          "src" : 11,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 1862,
+                          "duration" : 131,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 131,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 1862,
+                    "duration" : 131,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 131,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 62,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 63,
+                          "_type" : "VMFile",
+                          "src" : 12,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide12"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2012,
+                          "duration" : 243,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 243,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 64,
+                          "_type" : "AMFile",
+                          "src" : 12,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 2012,
+                          "duration" : 243,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 243,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 2012,
+                    "duration" : 243,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 243,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 65,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 66,
+                          "_type" : "VMFile",
+                          "src" : 13,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide13"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2266,
+                          "duration" : 170,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 170,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 67,
+                          "_type" : "AMFile",
+                          "src" : 13,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 2266,
+                          "duration" : 170,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 170,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 2266,
+                    "duration" : 170,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 170,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 68,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 69,
+                          "_type" : "VMFile",
+                          "src" : 14,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide14"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2447,
+                          "duration" : 80,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 80,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 70,
+                          "_type" : "AMFile",
+                          "src" : 14,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 2447,
+                          "duration" : 80,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 80,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 2447,
+                    "duration" : 80,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 80,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 71,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 72,
+                          "_type" : "VMFile",
+                          "src" : 15,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide15"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2544,
+                          "duration" : 233,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 233,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 73,
+                          "_type" : "AMFile",
+                          "src" : 15,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 2544,
+                          "duration" : 233,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 233,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 2544,
+                    "duration" : 233,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 233,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 74,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 75,
+                          "_type" : "VMFile",
+                          "src" : 16,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide16"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2788,
+                          "duration" : 203,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 203,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 76,
+                          "_type" : "AMFile",
+                          "src" : 16,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 2788,
+                          "duration" : 203,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 203,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 2788,
+                    "duration" : 203,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 203,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 77,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 78,
+                          "_type" : "VMFile",
+                          "src" : 17,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide17"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 3004,
+                          "duration" : 38,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 38,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 79,
+                          "_type" : "AMFile",
+                          "src" : 17,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 3004,
+                          "duration" : 38,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 38,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 3004,
+                    "duration" : 38,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 38,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 80,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 81,
+                          "_type" : "VMFile",
+                          "src" : 18,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide18"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 3050,
+                          "duration" : 416,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 416,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 82,
+                          "_type" : "AMFile",
+                          "src" : 18,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 3050,
+                          "duration" : 416,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 416,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 3050,
+                    "duration" : 416,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 416,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 83,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 84,
+                          "_type" : "VMFile",
+                          "src" : 19,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide19"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 3483,
+                          "duration" : 303,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 303,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 85,
+                          "_type" : "AMFile",
+                          "src" : 19,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 3483,
+                          "duration" : 303,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 303,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 3483,
+                    "duration" : 303,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 303,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 86,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 87,
+                          "_type" : "VMFile",
+                          "src" : 20,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide20"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 3807,
+                          "duration" : 324,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 324,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 88,
+                          "_type" : "AMFile",
+                          "src" : 20,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 3807,
+                          "duration" : 324,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 324,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 3807,
+                    "duration" : 324,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 324,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 89,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 90,
+                          "_type" : "VMFile",
+                          "src" : 21,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide21"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 4140,
+                          "duration" : 222,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 222,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 91,
+                          "_type" : "AMFile",
+                          "src" : 21,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 4140,
+                          "duration" : 222,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 222,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 4140,
+                    "duration" : 222,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 222,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 92,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 93,
+                          "_type" : "VMFile",
+                          "src" : 22,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide22"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 4375,
+                          "duration" : 242,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 242,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 94,
+                          "_type" : "AMFile",
+                          "src" : 22,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 4375,
+                          "duration" : 242,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 242,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 4375,
+                    "duration" : 242,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 242,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 95,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 96,
+                          "_type" : "VMFile",
+                          "src" : 23,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide23"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 4631,
+                          "duration" : 215,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 215,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 97,
+                          "_type" : "AMFile",
+                          "src" : 23,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 4631,
+                          "duration" : 215,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 215,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 4631,
+                    "duration" : 215,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 215,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 98,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 99,
+                          "_type" : "VMFile",
+                          "src" : 24,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide24"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 4863,
+                          "duration" : 183,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 183,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 100,
+                          "_type" : "AMFile",
+                          "src" : 24,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 4863,
+                          "duration" : 183,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 183,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 4863,
+                    "duration" : 183,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 183,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 101,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 102,
+                          "_type" : "VMFile",
+                          "src" : 25,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide25"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 5058,
+                          "duration" : 114,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 114,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 103,
+                          "_type" : "AMFile",
+                          "src" : 25,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 5058,
+                          "duration" : 114,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 114,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 5058,
+                    "duration" : 114,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 114,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 104,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 105,
+                          "_type" : "VMFile",
+                          "src" : 26,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "slide26"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 5189,
+                          "duration" : 218,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 218,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 106,
+                          "_type" : "AMFile",
+                          "src" : 26,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 5189,
+                          "duration" : 218,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 218,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 5189,
+                    "duration" : 218,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 218,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 107,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 108,
+                          "_type" : "VMFile",
+                          "src" : 27,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "website_segment"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 329,
+                          "duration" : 879,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 879,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 109,
+                          "_type" : "AMFile",
+                          "src" : 27,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 329,
+                          "duration" : 879,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 879,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 329,
+                    "duration" : 879,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 960,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 5,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 50,
+    "Date" : "2019-12-08 08:48:24 PM",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "MP4 only (up to 1080p)",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "final_video",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
