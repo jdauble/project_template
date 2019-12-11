@@ -167,26 +167,96 @@ One variable will be employed as a between-subjects manipulation: player-avatar 
 
 ###### Procedure
 Participants who volunteer to participate in the study will be directed to view a brief informed consent approved by the UCF IRB followed by one of the World of Warcraft choice questionnaires (randomly assigned), the Motivations to Play Online Games Questionnaire, and the Demographics survey. Completion of the surveys will be followed by an explanation of the purpose of the research and a request for participants to provide an email address if they are interested in participating in the followup interviews.
-
+______
 ##### Results
-We plan to analyze our results by using general linear models to explore the hypothesized relationships between factors of the Big Five Index and participants' responses to avatar development choices in World of Warcraft. 
+
+The following descriptive statistics and analyses relate to a mock data set generated to demonstrate the analyses planned for this study:
+
+###### Descriptive Statistic Distributions: IV Split
+
+
+![WoW](Media/DataSummaries/Data-Demographics.PNG)  
+Histograms of Sex, video game experience, and WoW experience do not indicate significant differences between the groups assigned to the two conditions. The one potential notable shift is a slightly increased experience level indicated by Group 1 (see top left graph) which may become relevant when considering player recurrence.  
+
+![WoW](Media/DataSummaries/Data-Personality-1.PNG)  
+Additionally, no striking differences exist between the groups with regard to Extraversion or Agreeableness though there is a noted shift in the mean of Conscientiousness that may temper interpretation of analyses relying on that predictor. 
+
+![WoW](Media/DataSummaries/Data-Personality-2.PNG)  
+Similarly, no differences are apparent in the distributions of neuroticism or openness between the groups. 
+
+![WoW](Media/DataSummaries/Data-WoW-1.PNG)  
+Interestingly, the distribution of responses to chosen race and class are quite similar between the two groups despite the manipulation of creation intent. A similar trend in the real dataset may indicate that players tend to create WoW characters with their own tendencies and personalities in mind regardless of the ability of those factors to predicted the decisions at hand.  
+
+![WoW](Media/DataSummaries/Data-WoW-2.PNG)  
+On the other hand, when the race and class options are reduced there seems to be a shift in the distribution of responses which may differentiate free build responses from those made in the context of self reflection. 
+______
+##### Hypothesis Tests
+###### H1: Including the factor of player recurrence will lead to a significant increase in the predictive power of the Big Five Inventory (BFI) model along all dimensions.
+
+![WoW](Media/DataSummaries/Data-H1.PNG)  
+Although the inclusion of probe focus did not bring the model to a level of statistical significance accepted in most null-hypothesis tests (p < 0.05) it did significantly increase the chi squared statistic, reduce the p value, and increase the r squared statistic of the logistic regression model which indicates that it added predictive power. 
+
+###### H2: A combination of higher Extraversion scores, lower Agreeableness scores, lower Neuroticism scores, and lower Openness scores will predict players’ biological sex such that those scores will correspond with male respondents.
+![WoW](Media/DataSummaries/Data-H2.PNG)  
+Hypothesis two did not hold for the simulated dataset (p > .05)
+
+###### H3: A combination of higher Extraversion and lower Neuroticism scores will positively predict player preferences towards PvP play-styles as opposed to RP or PvE.
+![WoW](Media/DataSummaries/Data-H3.PNG)  
+Hypothesis three also did not hold given the simulated data. 
+
+###### H4: Participants’ personality traits will predict their free-responses to queries regarding race and class.
+Race:
+![WoW](Media/DataSummaries/Data-H4.PNG)  
+Class:
+![WoW](Media/DataSummaries/Data-H4-2.PNG)  
+
+
+###### H5: Participants’ personality traits will predict their responses to three-choice forced queries regarding race and class.
+Race:
+![WoW](Media/DataSummaries/Data-H5.PNG)  
+Class:
+![WoW](Media/DataSummaries/Data-H5-2.PNG)  
+Surprisingly, even with the simulated data there was a shift towards stronger model predictive power with the reduced choice queries.
+
+###### H6: A combination of increased Conscientiousness scores, increased agreeableness scores, and decreased Extraversion scores will predict players’ alignment such that those exhibiting those traits will be more likely to align with Alliance forces than the Horde.
+![WoW](Media/DataSummaries/Data-H6.PNG)  
+Finally, for this data set there was no support provided for predicting faction from personality traits. 
 
 ______
 
 ###### Measures:
 
-Big Five Index  
-![WoW](Media/Images/BFI-1.PNG)  
-![WoW](Media/Images/BFI-2.PNG)  
+##### Qualtrics Survey: http://ucf.qualtrics.com/jfe/form/SV_3UejVXJNGI9RzIV
 
-Motivation to Play Online Games  
-![WoW](Media/Images/MPOG-1.PNG)  
-![WoW](Media/Images/MPOG-2.PNG)  
+##### Big Five Index  
+![WoW](Media/Qualtrics/BFI-1.PNG)  
+![WoW](Media/Qualtrics/BFI-2.PNG)  
+![WoW](Media/Qualtrics/BFI-3.PNG)  
+![WoW](Media/Qualtrics/BFI-4.PNG)  
+![WoW](Media/Qualtrics/BFI-5.PNG)  
 
-Demographics   
-![WoW](Media/Images/Demo-1.PNG)  
-![WoW](Media/Images/Demo-2.PNG)  
+##### Motivation to Play Online Games  
+![WoW](Media/Qualtrics/MPOG-1.PNG)  
+![WoW](Media/Qualtrics/MPOG-2.PNG)  
+![WoW](Media/Qualtrics/MPOG-3.PNG)  
+![WoW](Media/Qualtrics/MPOG-4.PNG)  
 
+##### Demographics   
+![WoW](Media/Qualtrics/Demographics.PNG)  
+![WoW](Media/Qualtrics/VideoExperience.PNG)  
+![WoW](Media/Qualtrics/WoW-Background.PNG)  
+
+##### World of Warcraft Queries  
+
+###### Phrasing 1:
+![WoW](Media/Qualtrics/Wow-Phrasing-1.PNG)  
+
+###### Phrasing 2:
+![WoW](Media/Qualtrics/Wow-Phrasing-2.PNG)  
+
+###### Probes:
+![WoW](Media/Qualtrics/Wow-1.PNG)  
+![WoW](Media/Qualtrics/Wow-2.PNG)  
 ______
 
 ## References 
